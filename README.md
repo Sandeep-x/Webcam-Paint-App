@@ -22,5 +22,9 @@ This Webcam Paint App lets you draw on you screen without touching the keyboard 
  
  ## Demo
  This is a simple demo to show you how to use the app.
+
+
+https://user-images.githubusercontent.com/18510244/193453589-6b788a63-099c-4d99-9d28-38b7940d62b9.mp4
+
  
  Choose a object color by double clicking mouse on the color boxes on the right side of screen. Then use a object of the choosen color to draw.
